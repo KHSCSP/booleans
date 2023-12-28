@@ -4,7 +4,7 @@
 
 print("\n--- part 1, using 'and' --- ")
 print(True and True)
-print(True and False)
+# print(True and False)
 # print(False and True)
 # print(False and False)
 
