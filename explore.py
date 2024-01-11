@@ -23,3 +23,9 @@ print(False or 'bologna')
 print(True and 'yes')
 print(False and 'yes')
 
+
+# those middle two...
+if False or 'bologna':
+    print("yep")
+if True and 'yes':
+    print("yep again")
